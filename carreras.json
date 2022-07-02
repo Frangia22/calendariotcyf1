@@ -1,38 +1,116 @@
-{
-    "Calendario": "Turismo Carretera",
-    "Temporada": "2022",
-    "Fechas": [
-      {
-        "Fecha N°": 1,
-        "age": 29,
-        "secretIdentity": "Dan Jukes",
-        "powers": [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
-        ]
-      },
-      {
-        "name": "Madame Uppercut",
-        "age": 39,
-        "secretIdentity": "Jane Wilson",
-        "powers": [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name": "Eternal Flame",
-        "age": 1000000,
-        "secretIdentity": "Unknown",
-        "powers": [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
-  }
+[
+    {
+      "Calendario": "Turismo Carretera",
+      "Temporada": "2022",
+      "Fechas": [
+        {
+          "Fecha N°": 1,
+          "Fecha": "13/02/2022",
+          "Provincia": "Rio Negro",
+          "Ciudad": "Viedma",
+          "Autodromo": "Viedma"
+        },
+        {
+          "Fecha N°": 2,
+          "Fecha": "06/03/2022",
+          "Provincia": "Neuquén",
+          "Ciudad": "Centenario",
+          "Autodromo": "Parque Provincia de Neuquén"
+        },
+        {
+          "Fecha N°": 3,
+          "Fecha": "27/03/2022",
+          "Provincia": "Entre Ríos",
+          "Ciudad": "Concepción del Uruguay",
+          "Autodromo": "Concepción del Uruguay"
+        },
+        {
+          "Fecha N°": 4,
+          "Fecha": "17/04/2022",
+          "Provincia": "La Pampa",
+          "Ciudad": "Toay",
+          "Autodromo": "Autódromo Pcia. de La Pampa"
+        },
+        {
+          "Fecha N°": 5,
+          "Fecha": "08/05/2022",
+          "Provincia": "Santiago del estero",
+          "Ciudad": "Termas de Río Hondo",
+          "Autodromo": "Termas de Río Hondo"
+        },
+        {
+          "Fecha N°": 6,
+          "Fecha": "29/05/2022",
+          "Provincia": "Santa Fé",
+          "Ciudad": "Rafaela",
+          "Autodromo": "Autódromo Ciudad de Rafaela"
+        },
+        {
+          "Fecha N°": 7,
+          "Fecha": "26/06/2022",
+          "Provincia": "Entre Rios",
+          "Ciudad": "Concordia",
+          "Autodromo": "Ciudad de Concordia"
+        },
+        {
+          "Fecha N°": 8,
+          "Fecha": "17/07/2022",
+          "Provincia": "Misiones",
+          "Ciudad": "Posadas",
+          "Autodromo": "Rosamonte"
+        },
+        {
+          "Fecha N°": 9,
+          "Fecha": "07/08/2022",
+          "Provincia": "San Juan",
+          "Ciudad": "San Juan",
+          "Autodromo": "San Juan Villicum"
+        },
+        {
+          "Fecha N°": 10,
+          "Fecha": "28/08/2022",
+          "Provincia": "Entre Rios",
+          "Ciudad": "Paraná",
+          "Autodromo": "Ciudad de Paraná"
+        },
+        {
+          "Fecha N°": 11,
+          "Fecha": "18/09/2022",
+          "Provincia": "San Luis",
+          "Ciudad": "San Luis",
+          "Autodromo": "Rosendo Hernández"
+        },
+        {
+          "Fecha N°": 12,
+          "Fecha": "09/10/2022",
+          "Provincia": "Chubut",
+          "Ciudad": "Comodoro Rivadavia",
+          "Autodromo": "Gral. San Martín"
+        },
+        {
+          "Fecha N°": 13,
+          "Fecha": "30/10/2022",
+          "Provincia": "Buenos Aires",
+          "Ciudad": "San Nicolás",
+          "Autodromo": "San Nicolás Ciudad"
+        },
+        {
+          "Fecha N°": 14,
+          "Fecha": "20/11/2022",
+          "Provincia": "La Pampa",
+          "Ciudad": "Toay",
+          "Autodromo": "Autódromo Pcia. de La Pampa"
+        },
+        {
+          "Fecha N°": 15,
+          "Fecha": "11/12/2022",
+          "Provincia": "San Juan",
+          "Ciudad": "San Juan",
+          "Autodromo": "San Juan Villicum"
+        }
+      ]
+    },
+    {
+
+    }
+]
